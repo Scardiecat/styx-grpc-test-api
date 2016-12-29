@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  styx-grpc-pingpong:
+  - apiVersion: v1
+    created: 2016-12-29T09:18:44.354992313-05:00
+    description: styx-grpc-pingpong chart
+    digest: 3fdf8896f43dde3b8e059737b68de25b327b34238b9d99431cf2c7d3f17ec55e
+    name: styx-grpc-pingpong
+    urls:
+    - styx-grpc-pingpong-0.0.2-6-g5759afa.tgz
+    version: 0.0.2-6-g5759afa
+generated: 2016-12-29T09:18:44.305559041-05:00
