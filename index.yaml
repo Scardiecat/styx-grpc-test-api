@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   styx-grpc-pingpong:
   - apiVersion: v1
-    created: 2017-01-05T17:41:52.036253985Z
+    created: 2017-01-05T19:08:59.755131417Z
+    description: styx-grpc-pingpong chart
+    digest: 9bae36eb8f187cf151a0ddc7362cf9e0661b444a8f8a17e440eafcab5df2b3b5
+    name: styx-grpc-pingpong
+    urls:
+    - styx-grpc-pingpong-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2017-01-05T19:08:59.754880387Z
     description: styx-grpc-pingpong chart
     digest: 367befa0eeab8c81ebb2ac881a2a35244638fe8f1878de5ad52d49b5aaa76b5d
     name: styx-grpc-pingpong
@@ -10,7 +18,7 @@ entries:
     - styx-grpc-pingpong-0.1.1-rc.21+0.1.0-2-ga4e812e.tgz
     version: 0.1.1-rc.21+0.1.0-2-ga4e812e
   - apiVersion: v1
-    created: 2017-01-05T17:41:52.036004606Z
+    created: 2017-01-05T19:08:59.754594339Z
     description: styx-grpc-pingpong chart
     digest: 3fdf8896f43dde3b8e059737b68de25b327b34238b9d99431cf2c7d3f17ec55e
     name: styx-grpc-pingpong
@@ -18,11 +26,11 @@ entries:
     - styx-grpc-pingpong-0.0.2-6-g5759afa.tgz
     version: 0.0.2-6-g5759afa
   - apiVersion: v1
-    created: 2017-01-05T17:41:52.035772017Z
+    created: 2017-01-05T19:08:59.754356121Z
     description: styx-grpc-pingpong chart
     digest: 3e97f210ee34acb0454d80b639f8a9d0196bee173a8c6477d793ee76c6652783
     name: styx-grpc-pingpong
     urls:
     - styx-grpc-pingpong-0.0.2-13-ge23060b.tgz
     version: 0.0.2-13-ge23060b
-generated: 2017-01-05T17:41:52.035343033Z
+generated: 2017-01-05T19:08:59.753855746Z
